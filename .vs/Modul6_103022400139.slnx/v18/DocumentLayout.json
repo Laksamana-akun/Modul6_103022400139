@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Modul6_103022400139\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CF52FF9-EDD4-4A57-8023-C9D49C1E905A}|Modul6_103022400139.csproj|d:\\modul6_103022400139\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CF52FF9-EDD4-4A57-8023-C9D49C1E905A}|Modul6_103022400139.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED54B091-D9F4-2838-2D5D-72292C789649}|Modul6_103022400139.csproj|d:\\modul6_103022400139\\sayamusicuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED54B091-D9F4-2838-2D5D-72292C789649}|Modul6_103022400139.csproj|solutionrelative:sayamusicuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED54B091-D9F4-2838-2D5D-72292C789649}|Modul6_103022400139.csproj|d:\\modul6_103022400139\\sayamusictrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED54B091-D9F4-2838-2D5D-72292C789649}|Modul6_103022400139.csproj|solutionrelative:sayamusictrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED54B091-D9F4-2838-2D5D-72292C789649}|Modul6_103022400139.csproj|d:\\modul6_103022400139\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED54B091-D9F4-2838-2D5D-72292C789649}|Modul6_103022400139.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SayaMusicTrack.cs",
+              "DocumentMoniker": "D:\\Modul6_103022400139\\SayaMusicTrack.cs",
+              "RelativeDocumentMoniker": "SayaMusicTrack.cs",
+              "ToolTip": "D:\\Modul6_103022400139\\SayaMusicTrack.cs",
+              "RelativeToolTip": "SayaMusicTrack.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T00:15:25.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SayaMusicUser.cs",
+              "DocumentMoniker": "D:\\Modul6_103022400139\\SayaMusicUser.cs",
+              "RelativeDocumentMoniker": "SayaMusicUser.cs",
+              "ToolTip": "D:\\Modul6_103022400139\\SayaMusicUser.cs",
+              "RelativeToolTip": "SayaMusicUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T00:14:51.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Modul6_103022400139\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Modul6_103022400139\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-06T23:53:54.027Z",
               "EditorCaption": ""
